@@ -1,4 +1,7 @@
-{
+
+"scripts": {
+  "start": "node index.js"
+}
   "name": "dialogflow-web",
   "description": "Dialogflow Progressive Web Application",
   "version": "1.7.0",
